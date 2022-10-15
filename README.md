@@ -1,10 +1,10 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 
-Name :
+Name :Naveenkumar V
 
-Roll no :
+Roll no :212221230068
 
-Date of experiment :
+Date of experiment :14/10/2022
 
  
 
